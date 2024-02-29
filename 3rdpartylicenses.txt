@@ -13,6 +13,8 @@ MIT
 ngx-carousel-ease
 MIT
 
+ngx-tooltip-ease
+
 rxjs
 Apache-2.0
                                Apache License
